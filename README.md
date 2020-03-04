@@ -1,10 +1,12 @@
 # NotesApplication
 A console application for adding, reading, removing and listing notes you need to save
 
-* To add a note just run in the console the command node app.js add --title="New note" --body="Just for trial"
+* First run **npm install** to install node modules that include the packages used in the application.
 
-* To read a specific note just run in the console the command node app.js read --title="New note"
+* To add a note just run in the console the command **node app.js add --title="New note" --body="Just for trial"**
 
-* To list all notes added a note just run in the console the command node app.js list
+* To read a specific note just run in the console the command **node app.js read --title="New note"**
 
-* To delete a note just run in the console the command delete node app.js remove --title="New note"
+* To list all notes added a note just run in the console the command **node app.js list**
+
+* To delete a note just run in the console the command delete **node app.js remove --title="New note"**
