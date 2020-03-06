@@ -1,6 +1,6 @@
 # NotesApplication
 
-**A console application for adding, reading, removing and listing notes you need to save**
+***A console application for adding, reading, removing and listing notes you need to save***
 
 * First run **npm install** to install node modules that include the packages used in the application.
 
